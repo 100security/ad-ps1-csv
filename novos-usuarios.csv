@@ -1,0 +1,9 @@
+﻿Usuario,Senha,NomeCompleto,Nome,Sobrenome,Email,Cargo,Telefone,Celular,Unidade,Departamento,Cidade,Estado,GrupoArea,UserPrincipalName
+usuario01,kM#5Rf-NNA7$,Nome Completo 01,Nome,Completo 01,usuario01@100security.com.br,Security Analyst,(11) 1111-1111,(11) 99999-9999,São Paulo,Red Team,São Paulo,SP,group_redteam,usaurio01@100security.local
+usuario02,s[Od3Z23:3j>,Nome Completo 02,Nome,Completo 02,usuario02@100security.com.br,Security Analyst,(11) 1111-1111,(11) 99999-9999,São Paulo,Red Team,São Paulo,SP,group_redteam,usaurio02@100security.local
+usuario03,Tnn4[$Tk_Tdb,Nome Completo 03,Nome,Completo 03,usuario03@100security.com.br,Security Analyst,(11) 1111-1111,(11) 99999-9999,São Paulo,Red Team,São Paulo,SP,group_redteam,usaurio03@100security.local
+usuario04,]LDxR)tkZ[w_,Nome Completo 04,Nome,Completo 04,usuario04@100security.com.br,Security Analyst,(11) 1111-1111,(11) 99999-9999,São Paulo,Blue Team,São Paulo,SP,group_blueteam,usaurio04@100security.local
+usuario05,A8rOWOS]h#?1,Nome Completo 05,Nome,Completo 05,usuario05@100security.com.br,Security Analyst,(11) 1111-1111,(11) 99999-9999,São Paulo,Blue Team,São Paulo,SP,group_blueteam,usaurio05@100security.local
+usuario06,p!DKK)x8ShB!,Nome Completo 06,Nome,Completo 06,usuario06@100security.com.br,Security Analyst,(11) 1111-1111,(11) 99999-9999,São Paulo,Blue Team,São Paulo,SP,group_blueteam,usaurio06@100security.local
+
+
